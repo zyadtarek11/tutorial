@@ -1,0 +1,3 @@
+# this is a comment to describe this file
+# this file is used to ignore the credentials that cant be on the server
+credentials.crt 
