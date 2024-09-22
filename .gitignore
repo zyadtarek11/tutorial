@@ -2,3 +2,4 @@
 # this file is used to ignore the credentials that cant be on the server
 
 *.crt 
+file?
