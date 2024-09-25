@@ -1,6 +1,7 @@
-# this is a header
+# This is a header
 
-this is a normal text
-# this is a new header
+This is a normal text
+# This is a new header
 
-this is a new text
+This is a new line
+Done (:
